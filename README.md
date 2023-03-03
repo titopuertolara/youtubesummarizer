@@ -8,7 +8,7 @@ python main_app.py
 ```
 Usually put 127.0.0.1:8050 on your browser, maybe you have to wait a little bit until whisper, spacy, nltk an keybert are configured
 
-Here are two speeches by two presidents od USA:
+Here are two speeches by two presidents of USA:
 
 
-
+![alt text](https://github.com/titopuertolara/youtubesummarizer/blob/main/images/biden.png?raw=true)
