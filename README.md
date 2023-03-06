@@ -2,6 +2,12 @@
 
 This app helps you to 'read' youtube videos
 
+```
+python3.9 -m venv appvenv
+source appvenv/bin/activate
+pip install -r requirements.txt
+```
+
 Once requiremente are installed just make:
 ```
 python main_app.py
