@@ -2,7 +2,7 @@ dash
 pandas
 dash-cytoscape
 dash-table
-whisper
+openai-whisper
 keybert
 wordcloud
 

@@ -1,9 +1,0 @@
-dash
-pandas
-dash-cytoscape
-dash-table
-whisper
-keybert
-wordcloud
-youtube-dl
-gunicorn
