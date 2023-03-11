@@ -7,3 +7,5 @@ keybert
 wordcloud
 youtube-dl
 gunicorn
+nltk
+spacy
