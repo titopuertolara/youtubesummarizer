@@ -5,7 +5,8 @@ dash-table
 whisper
 keybert
 wordcloud
-youtube-dl
+
 gunicorn
 nltk
 spacy
+pytube
